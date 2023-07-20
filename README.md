@@ -13,5 +13,5 @@ Terraform AWS Training Project \
  -associates network interface with security group \
  -associates network interface with instance \
  -security group will act as firewall for instance \
- -configures apache web server and web page on instance \
+ -configures apache web server and web page on instance 
  
